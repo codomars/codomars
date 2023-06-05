@@ -1,4 +1,5 @@
 
+<img align="center" alt="bmo" src="https://i.gifer.com/YAg6.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>

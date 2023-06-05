@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
   <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
   <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
-  <img align="center" alt="Rafa-AI" height="30" width="30" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg">&nbsp;
+  <img align="center" alt="Rafa-AI" height="30" width="30" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg">&nbsp;&nbsp;
   <img align="center" alt="Rafa-AP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">&nbsp;
   <img align="center" alt="Rafa-AP" height="30" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Rafa-AP" height="30" width="30" src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg">

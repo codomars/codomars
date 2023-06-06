@@ -5,7 +5,7 @@
 Self-motivated & recovered perfectionist
 
 
-📚   Fouced on learning front-end.
+📚   Fouced on learning front-end
 
 
 

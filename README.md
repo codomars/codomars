@@ -19,8 +19,9 @@ Self-motivated & recovered perfectionist
   <img align="center" alt="mars-VS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">&nbsp;
   <img align="center" alt="mars-AI" height="30" width="30" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg">&nbsp;&nbsp;
   <img align="center" alt="mars-AP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">&nbsp;
-  <img align="center" alt="mars-FIGMA" height="30" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="center" alt="mars-WEBFLOW" height="30" width="30" src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg">
+  <img align="center" alt="mars-FIGMA" height="30" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">&nbsp;
+  <img align="center" alt="mars-WEBFLOW" height="30" width="30" src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg">&nbsp;
+   <img align="center" alt="mars-WEBFLOW" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
   
  
  
